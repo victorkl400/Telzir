@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Telzir/static/css/main.c6597e5a.chunk.css",
+    "main.js": "/Telzir/static/js/main.ebd4d845.chunk.js",
+    "main.js.map": "/Telzir/static/js/main.ebd4d845.chunk.js.map",
+    "runtime-main.js": "/Telzir/static/js/runtime-main.4bb30182.js",
+    "runtime-main.js.map": "/Telzir/static/js/runtime-main.4bb30182.js.map",
+    "static/css/2.53c20c32.chunk.css": "/Telzir/static/css/2.53c20c32.chunk.css",
+    "static/js/2.cb26f359.chunk.js": "/Telzir/static/js/2.cb26f359.chunk.js",
+    "static/js/2.cb26f359.chunk.js.map": "/Telzir/static/js/2.cb26f359.chunk.js.map",
+    "index.html": "/Telzir/index.html",
+    "precache-manifest.df67c7796681d439dc1cdd5e7dfce71e.js": "/Telzir/precache-manifest.df67c7796681d439dc1cdd5e7dfce71e.js",
+    "service-worker.js": "/Telzir/service-worker.js",
+    "static/css/2.53c20c32.chunk.css.map": "/Telzir/static/css/2.53c20c32.chunk.css.map",
+    "static/css/main.c6597e5a.chunk.css.map": "/Telzir/static/css/main.c6597e5a.chunk.css.map",
+    "static/media/011.png": "/Telzir/static/media/011.6dbd1160.png",
+    "static/media/016.png": "/Telzir/static/media/016.7b1d9eaa.png",
+    "static/media/017.png": "/Telzir/static/media/017.522f9c5a.png",
+    "static/media/018.png": "/Telzir/static/media/018.45633573.png",
+    "static/media/120.png": "/Telzir/static/media/120.c550f703.png",
+    "static/media/30.png": "/Telzir/static/media/30.c09d8066.png",
+    "static/media/60.png": "/Telzir/static/media/60.c5146a1c.png",
+    "static/media/celular.png": "/Telzir/static/media/celular.c16f671e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bb30182.js",
+    "static/css/2.53c20c32.chunk.css",
+    "static/js/2.cb26f359.chunk.js",
+    "static/css/main.c6597e5a.chunk.css",
+    "static/js/main.ebd4d845.chunk.js"
+  ]
+}
