@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Telzir/static/css/main.afdb388f.chunk.css",
-    "main.js": "/Telzir/static/js/main.ccd0e569.chunk.js",
-    "main.js.map": "/Telzir/static/js/main.ccd0e569.chunk.js.map",
+    "main.css": "/Telzir/static/css/main.19ffd51f.chunk.css",
+    "main.js": "/Telzir/static/js/main.e510ac0c.chunk.js",
+    "main.js.map": "/Telzir/static/js/main.e510ac0c.chunk.js.map",
     "runtime-main.js": "/Telzir/static/js/runtime-main.4bb30182.js",
     "runtime-main.js.map": "/Telzir/static/js/runtime-main.4bb30182.js.map",
     "static/css/2.53c20c32.chunk.css": "/Telzir/static/css/2.53c20c32.chunk.css",
-    "static/js/2.9d45767f.chunk.js": "/Telzir/static/js/2.9d45767f.chunk.js",
-    "static/js/2.9d45767f.chunk.js.map": "/Telzir/static/js/2.9d45767f.chunk.js.map",
+    "static/js/2.10dff67f.chunk.js": "/Telzir/static/js/2.10dff67f.chunk.js",
+    "static/js/2.10dff67f.chunk.js.map": "/Telzir/static/js/2.10dff67f.chunk.js.map",
     "index.html": "/Telzir/index.html",
-    "precache-manifest.9cf4b5e92f8a82bd0bb817b510d9694e.js": "/Telzir/precache-manifest.9cf4b5e92f8a82bd0bb817b510d9694e.js",
+    "precache-manifest.54da49e7e68520738a9fcf628abc0d01.js": "/Telzir/precache-manifest.54da49e7e68520738a9fcf628abc0d01.js",
     "service-worker.js": "/Telzir/service-worker.js",
     "static/css/2.53c20c32.chunk.css.map": "/Telzir/static/css/2.53c20c32.chunk.css.map",
-    "static/css/main.afdb388f.chunk.css.map": "/Telzir/static/css/main.afdb388f.chunk.css.map",
+    "static/css/main.19ffd51f.chunk.css.map": "/Telzir/static/css/main.19ffd51f.chunk.css.map",
     "static/media/011.png": "/Telzir/static/media/011.6dbd1160.png",
     "static/media/016.png": "/Telzir/static/media/016.7b1d9eaa.png",
     "static/media/017.png": "/Telzir/static/media/017.522f9c5a.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.4bb30182.js",
     "static/css/2.53c20c32.chunk.css",
-    "static/js/2.9d45767f.chunk.js",
-    "static/css/main.afdb388f.chunk.css",
-    "static/js/main.ccd0e569.chunk.js"
+    "static/js/2.10dff67f.chunk.js",
+    "static/css/main.19ffd51f.chunk.css",
+    "static/js/main.e510ac0c.chunk.js"
   ]
 }
