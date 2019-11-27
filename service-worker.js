@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Telzir/precache-manifest.b66116828f74bb16badcedec201de5ea.js"
+  "/Telzir/precache-manifest.33d834882cc4a306db9466810155d793.js"
 );
 
 self.addEventListener('message', (event) => {
