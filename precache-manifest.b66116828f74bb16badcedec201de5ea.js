@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7c28c631db08508a65d3b108ca26af6",
+    "revision": "65aba41514d27e63274e1e6fa50f4f15",
     "url": "/Telzir/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Telzir/static/css/2.53c20c32.chunk.css"
   },
   {
-    "revision": "0fdec1d9738cc1c9474c",
+    "revision": "43ec516778435727a1c7",
     "url": "/Telzir/static/css/main.c6597e5a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Telzir/static/js/2.cb26f359.chunk.js"
   },
   {
-    "revision": "0fdec1d9738cc1c9474c",
-    "url": "/Telzir/static/js/main.ebd4d845.chunk.js"
+    "revision": "43ec516778435727a1c7",
+    "url": "/Telzir/static/js/main.a9105c26.chunk.js"
   },
   {
     "revision": "345e30c08d635c66deaa",

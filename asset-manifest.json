@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Telzir/static/css/main.c6597e5a.chunk.css",
-    "main.js": "/Telzir/static/js/main.ebd4d845.chunk.js",
-    "main.js.map": "/Telzir/static/js/main.ebd4d845.chunk.js.map",
+    "main.js": "/Telzir/static/js/main.a9105c26.chunk.js",
+    "main.js.map": "/Telzir/static/js/main.a9105c26.chunk.js.map",
     "runtime-main.js": "/Telzir/static/js/runtime-main.4bb30182.js",
     "runtime-main.js.map": "/Telzir/static/js/runtime-main.4bb30182.js.map",
     "static/css/2.53c20c32.chunk.css": "/Telzir/static/css/2.53c20c32.chunk.css",
     "static/js/2.cb26f359.chunk.js": "/Telzir/static/js/2.cb26f359.chunk.js",
     "static/js/2.cb26f359.chunk.js.map": "/Telzir/static/js/2.cb26f359.chunk.js.map",
     "index.html": "/Telzir/index.html",
-    "precache-manifest.df67c7796681d439dc1cdd5e7dfce71e.js": "/Telzir/precache-manifest.df67c7796681d439dc1cdd5e7dfce71e.js",
+    "precache-manifest.b66116828f74bb16badcedec201de5ea.js": "/Telzir/precache-manifest.b66116828f74bb16badcedec201de5ea.js",
     "service-worker.js": "/Telzir/service-worker.js",
     "static/css/2.53c20c32.chunk.css.map": "/Telzir/static/css/2.53c20c32.chunk.css.map",
     "static/css/main.c6597e5a.chunk.css.map": "/Telzir/static/css/main.c6597e5a.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.53c20c32.chunk.css",
     "static/js/2.cb26f359.chunk.js",
     "static/css/main.c6597e5a.chunk.css",
-    "static/js/main.ebd4d845.chunk.js"
+    "static/js/main.a9105c26.chunk.js"
   ]
 }
