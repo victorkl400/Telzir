@@ -1,0 +1,179 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
+
+/*RESETANDO CSS*/
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto";
+}
+/*COMPLEMENTARES*/
+.error {
+  color: red;
+}
+
+/*CABECALHO*/
+header img {
+  width: 10vh;
+}
+
+/*CONTEUDO GERAL*/
+.content {
+  padding: 50px 50px 120px;
+}
+.content:nth-child(1) {
+  padding: 50px;
+}
+img {
+  width: 150px;
+  transition: 0.5s ease-in-out;
+}
+/*CONTEUDO INTERNO*/
+
+section h2 {
+  font-size: 31px;
+  line-height: 35px;
+  letter-spacing: -0.88px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+section h3 {
+  font-size: 21px;
+  font-weight: 200;
+  letter-spacing: -0.44px;
+  padding-top: 48px;
+  font-family: "Roboto", sans-serif;
+}
+section span {
+  font-size: 14px;
+  line-height: 21.08px;
+  color: #888;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+.items {
+  padding-top: 48px;
+}
+.result {
+  position: absolute;
+  right: 20vw;
+  width: 55vw;
+}
+.result div {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  display: flex;
+  justify-content: center;
+  width: 15vw;
+  height: 15vw;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+.result span {
+  margin-top: 13px;
+  font-size: 25px;
+  font-weight: 100;
+  margin-left: 0%;
+  color: whitesmoke;
+  height: 10%;
+}
+.result p {
+  position: absolute;
+  color: yellow;
+  padding: 0;
+  margin-top: 40%;
+  font-size: 30px;
+}
+.result div:nth-child(2) {
+  left: 20%;
+}
+.result div:nth-child(3) {
+  border: none;
+  left: 80%;
+}
+.result div img {
+  margin-top: -20px;
+  margin-left: 40px;
+  width: 130px;
+}
+.result img {
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+/*ADAPTANDO PARA DISPOSITIVOS MOVEIS*/
+@media screen and (max-width: 700px) {
+  section h2 {
+    font-size: 24px;
+  }
+  .content {
+    padding: 0 0 0 20px;
+  }
+  .content:nth-child(1) {
+    padding: 50px 0 0 20px;
+  }
+
+  section h3 {
+    font-size: 22px;
+  }
+  section span {
+    font-size: 15px;
+  }
+  section .items {
+    width: 100%;
+  }
+  .spacer {
+    height: 24px;
+  }
+  .result {
+    position: absolute;
+    left: 5%;
+    width: 90vw;
+  }
+  .result div {
+    border: 0.5px solid white;
+    margin-top: -10px;
+    width: 25vw;
+  }
+  .result div:nth-child(3) {
+    margin-top: -35px;
+  }
+  .result div img {
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 20vw;
+  }
+  .result span {
+    font-size: 13px;
+    margin-top: 0px;
+  }
+  .result p {
+    font-size: 16px;
+    margin-top: 25%;
+  }
+}
+
+/*PARTE INFERIOR*/
+.floatBar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 0px;
+  height: 67px;
+  width: 100vw;
+  background: #661699;
+  color: white;
+  font-weight: 300;
+}
+.floatBar button {
+  margin-left: 40px;
+  background: #fff;
+  padding: 0 3.5rem;
+  line-height: 3rem;
+  font-size: 14px;
+  color: #661699;
+  border: none;
+}
